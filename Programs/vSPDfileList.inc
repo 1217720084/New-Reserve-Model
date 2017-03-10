@@ -1,0 +1,10 @@
+/
+'No_NMIR_TP20_NI_FIR_NFR_up10kw'
+$ontext
+'NMIR_TP22'
+'NMIR_TP22_NI_FIR_NFR_down10kw'
+'NMIR_TP22_NI_FIR_NFR_up10kw'
+'No_NMIR_TP20'
+'No_NMIR_TP20_NI_FIR_NFR_down10kw'
+$offtext
+/
